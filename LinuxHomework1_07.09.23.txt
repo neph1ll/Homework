@@ -1,0 +1,17 @@
+   0 mkdir -p /home/animals /home/planets /home/humans /home/animals/cats /home/animals/dogs /home/animals/fish 
+   1 touch /home/animals/dogs/pluto /home/animals/cats/garfield /home/animals/fish/nemo /opt/Mercury /opt/Venus /opt/Mars /opt/Jupiter /tmp/adam /tmp/evA
+   2 mv /opt/Mercury /opt/Mars /opt/Venus /opt/Jupiter /home/planets
+   3 cp -r /tmp/adam /home/humans
+   4 mv /tmp/evA /opt/eve
+   5 mv /opt/eve /home/humans
+   6 /home
+   7 ls
+   8 tree /home
+   9 export file JavaHomework1_07.09.23
+  10 export file LinuxHomework
+  11 уч
+  12 export_file
+  13 export_file LinuxHomework
+  14 expot_file Tel-Ran
+  15 export_file filename
+  16 history > LinuxHomework.txt
